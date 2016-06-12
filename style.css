@@ -76,6 +76,6 @@ body{
 
   
 
-/* multiple styles seperated by a , */
+/* multiple styles separated by a , */
 #content,
 ul li a{ box-shadow: 0px 1px 1px #999; }
